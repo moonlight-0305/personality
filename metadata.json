@@ -1,0 +1,6 @@
+{
+  "name": "Big-5 성격 테스트",
+  "description": "50가지 문항을 통해 Big-5 성격 특성을 분석하고 레이더 차트로 결과를 시각화하는 테스트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
